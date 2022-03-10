@@ -1,4 +1,4 @@
-# Graph_python
+
 import matplotlib.pyplot as  FUNCTION_GRAPH
 
  
